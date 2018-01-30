@@ -22,7 +22,7 @@
 // THE SOFTWARE.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 #import "sqlite3.h"
 

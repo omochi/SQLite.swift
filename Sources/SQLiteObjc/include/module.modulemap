@@ -1,0 +1,5 @@
+module SQLiteObjc {
+	header "SQLite-Bridging.h"
+	export *
+	link "sqlite3"
+}
